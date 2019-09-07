@@ -1,0 +1,20 @@
+
+
+***********************************************************************
+Fatal NI connect error 12560, connecting to:
+ (DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=BEQ)(PROGRAM=oracle)(ARGV0=oracleORCL)(ARGS='(DESCRIPTION=(LOCAL=YES)(ADDRESS=(PROTOCOL=beq)))')))(CONNECT_DATA=(SID=ORCL)(CID=(PROGRAM=C:\PROGRAM FILES\BORLAND\DELPHI5\BIN\DELPHI32.EXE)(HOST=NYK)(USER=nyk))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.5.0.0 - Production
+	Oracle Bequeath NT Protocol Adapter for 32-bit Windows: Version 8.1.5.0.0 - Production
+  Time: 21-АПР-00 15:48:56
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12560
+    TNS-12560: TNS:ошибка адаптера протокола
+    ns secondary err code: 0
+    nt main err code: 102
+    TNS-00102: Ошибка при операции привязки Ключевое слово-Значение
+    nt secondary err code: 0
+    nt OS err code: 0
